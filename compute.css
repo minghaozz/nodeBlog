@@ -1,0 +1,15 @@
+/*
+* @Author: Marte
+* @Date:   2018-04-11 22:21:50
+* @Last Modified by:   Marte
+* @Last Modified time: 2018-04-11 22:25:19
+*/
+body {
+    text-align: center;
+}
+
+#container {
+    width: 400px;
+    height: 450px;
+    background-color: yellow;
+}
